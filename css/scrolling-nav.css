@@ -38,9 +38,25 @@ of those sections to manage the look and feel of the site. */
 	background: linear-gradient(to left, #7b4397, #dc2430);
 }
 
+.container-2 {
+	padding-top: 100px;
+}
+
+.btn-default {
+	
+	padding: 14px 40px;
+	font-size: 16px;
+	border-radius: 10px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	
+}
+
 .intro-section h1 {
 
 	color: white;
+	font-family: 'Playfair Display', serif;
+	font-size: 45px
+	
 }
 
 .intro-section p {
