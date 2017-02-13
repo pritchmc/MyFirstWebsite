@@ -33,9 +33,18 @@ of those sections to manage the look and feel of the site. */
 
 .intro-section {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 200px;
     text-align: center;
-    background: #fff;
+	background: linear-gradient(to left, #7b4397, #dc2430);
+}
+
+.intro-section h1 {
+
+	color: white;
+}
+
+.intro-section p {
+	color: white;
 }
 
 .about-section {
